@@ -1,14 +1,6 @@
-// ================================
-// FILE: src/index.css
-// ================================
 @import "tailwindcss";
 
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #ffffff;
-}
-
-* {
-  box-sizing: border-box;
 }
